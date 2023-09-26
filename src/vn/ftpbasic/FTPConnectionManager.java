@@ -1,6 +1,9 @@
-import java.io.IOException;
+package vn.ftpbasic;
+
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPReply;
+
+import java.io.IOException;
 
 public class FTPConnectionManager {
 
